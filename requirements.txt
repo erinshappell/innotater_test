@@ -3,3 +3,5 @@ pypng>=0.0.19
 jupyterlab~=3.0
 jupyter_packaging
 ipywidgets>=7.6.5
+jupyter-innotater
+jupyter_contrib_nbextensions
