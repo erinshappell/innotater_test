@@ -1,4 +1,10 @@
+Cython==0.29.21
+h5py==2.10.0
+matplotlib==3.1.1
 numpy>=1.4.0
+opencv-python-headless==4.4.0.44
+pandas==0.25.3
+nodejs
 pypng>=0.0.19
 jupyterlab~=3.0
 jupyter_packaging
